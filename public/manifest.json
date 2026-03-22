@@ -1,0 +1,21 @@
+{
+  "name": "Lumina Text Shortener",
+  "short_name": "Lumina",
+  "description": "An AI-powered text shortening tool that preserves meaning and integrity with real-time intensity control.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#18181b",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/lumina/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/lumina/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
